@@ -23,7 +23,6 @@
 ⠀⠀⠀⠀⠱⢆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡴⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠛⢦⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⠴⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠲⠤⣤⣤⣤⣄⠀⠀⠀⠀⠀⠀⠀⢠⣤⣤⠤⠴⠒⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-<<<<<<< HEAD
 angery doge!
 
 Made with fiery hatred by Evil Cheems Lover
@@ -32,7 +31,6 @@ Made with fiery hatred by Evil Cheems Lover
 such merge
 very conflict
 wow
-=======
 happi doge!
 
 Made with love by Doge Enjoyer
@@ -41,4 +39,3 @@ Made with love by Doge Enjoyer
 
 
 
->>>>>>> 18d84c0d05313662321061ede27c8a6032af8398
